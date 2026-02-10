@@ -83,17 +83,20 @@ This dimensional model enables efficient analytical querying and reporting.
 ---
 
 ## 📁 Project Structure
-
--├── spotify_api_ingestion.py # Spotify API data ingestion
--├── Spotify_ETL.ipynb # ETL and transformations
--├── spotify_streaming_data.csv # Raw streaming data
--├── fact_streams.csv # Fact table
--├── dim_artist.csv # Artist dimension
--├── dim_country.csv # Country dimension
--├── dim_age_group.csv # Age group dimension
--├── dim_subscription.csv # Subscription dimension
--├── spotify_extended.db # SQLite database
--└── README.md # Project documentation
+-
+├── spotify_api_ingestion.py # Spotify API data ingestion
+-
+├── Spotify_ETL.ipynb # ETL and transformations
+-
+├── spotify_streaming_data.csv # Raw streaming data
+-
+├── fact_streams.csv # Fact table
+├── dim_artist.csv # Artist dimension
+├── dim_country.csv # Country dimension
+├── dim_age_group.csv # Age group dimension
+├── dim_subscription.csv # Subscription dimension
+├── spotify_extended.db # SQLite database
+└── README.md # Project documentation
 ---
 
 ## 🧠 Skills Demonstrated
